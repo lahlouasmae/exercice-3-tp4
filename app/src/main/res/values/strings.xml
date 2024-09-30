@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LiveData</string>
+    <string name="nom">Nom et Prenom </string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="adresse">Adresse</string>
+    <string name="ville">Ville : </string>
+    <array name="spinner">
+        <item>Marrakech</item>
+        <item>Casa</item>
+        <item>El Jadida</item>
+    </array>
+</resources>
