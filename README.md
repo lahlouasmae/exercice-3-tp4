@@ -48,3 +48,6 @@ L'interface utilisateur est définie dans un fichier XML, qui comprend :
 ## Utilisation
 1. Remplissez le formulaire d'inscription avec vos informations personnelles.
 2. Cliquez sur **Envoyer** pour voir le récapitulatif de vos informations dans une nouvelle activité.
+
+## Viedo descriptif
+https://github.com/user-attachments/assets/3401c565-bc38-4b1e-af8c-f9c1da45f650
